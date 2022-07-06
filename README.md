@@ -4,6 +4,8 @@ The **Introduction to AWS** is a Series containing different articles that provi
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=/AditModi/Introduction-to-AWS-Topics)[![Website](https://img.shields.io/website?label=Dev.to&up_message=@aditmodi&url=https%3A%2F%2Fdev.to/aditmodi)](https://dev.to/aditmodi) 
 
+![Introduction to AWS](https://user-images.githubusercontent.com/48589838/177519114-c128fa9b-1a45-481a-993e-bb47dae227c0.jpg)
+
 
 |               | Topic        | Personal Website | Hashnode     | 
 | ------------  | ------------ | ---------------- | ------------ |
