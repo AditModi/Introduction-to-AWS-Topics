@@ -2,6 +2,10 @@
 
 The **Introduction to AWS** is a Series containing different articles that provide a basic introduction to different aws topics/categories. Each article covers the detailed guide on how to work with particular topic/category . This series aims at providing "A Getting Started Guide on Different aws topics / categories ."
 
+Feel free to make suggestions, I am open to any advice! You can reach me on [Twitter](https://twitter.com/adi_12_modi) or [LinkedIn](https://www.linkedin.com/in/adit-modi-2a4362191/).
+
+##### Enjoy! 😉👍
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=/AditModi/Introduction-to-AWS-Topics)[![Website](https://img.shields.io/website?label=Dev.to&up_message=@aditmodi&url=https%3A%2F%2Fdev.to/aditmodi)](https://dev.to/aditmodi) 
 
 ![Introduction to AWS](https://user-images.githubusercontent.com/48589838/177519114-c128fa9b-1a45-481a-993e-bb47dae227c0.jpg)
